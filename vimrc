@@ -29,3 +29,5 @@ set laststatus=2
 set t_Co=256 " Explicitly tell Vim that the terminal supports 256 colors
 
 call pathogen#infect()
+
+let g:Powerline_symbols = 'unicode'
