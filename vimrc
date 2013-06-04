@@ -31,3 +31,8 @@ set t_Co=256 " Explicitly tell Vim that the terminal supports 256 colors
 call pathogen#infect()
 
 let g:Powerline_symbols = 'unicode'
+
+autocmd FileType html,htmldjango,jinjahtml,eruby,mako
+let b:closetag_html_style=1
+autocmd FileType html,xhtml,xml,htmldjango,jinjahtml,eruby,mako
+source ~/.vim/bundle/closetag/plugin/closetag.vim
