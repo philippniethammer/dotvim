@@ -1,3 +1,7 @@
+Dependencies:
+
+    sudo apt-get install exuberant-ctags
+
 Installation:
 
     git clone git://github.com/philippniethammer/dotvim.git ~/.vim
