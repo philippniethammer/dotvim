@@ -10,3 +10,15 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/colorer-color-scheme"]
+	path = bundle/colorer-color-scheme
+	url = https://github.com/vim-scripts/colorer-color-scheme
+[submodule "bundle/color-distinguished"]
+	path = bundle/color-distinguished
+	url = https://github.com/Lokaltog/vim-distinguished
+[submodule "bundle/color-vividchalk"]
+	path = bundle/color-vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
