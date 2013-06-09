@@ -24,7 +24,7 @@ if &t_Co > 2 || has("gui_running")
   set hlsearch
 endif
 
-set encoding=utf-8 " Necessary to show Unicode glyphs
+" set encoding=utf-8 " Necessary to show Unicode glyphs
 set laststatus=2
 set t_Co=256 " Explicitly tell Vim that the terminal supports 256 colors
 
