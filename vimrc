@@ -25,6 +25,8 @@ set numberwidth=4
 set cpoptions+=n
 set cursorline
 
+set nobackup
+
 colorscheme vividchalk
 
 filetype plugin indent on
