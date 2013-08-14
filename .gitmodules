@@ -22,3 +22,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/gnupg"]
+	path = bundle/gnupg
+	url = https://github.com/jamessan/vim-gnupg.git
